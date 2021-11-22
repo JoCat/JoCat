@@ -4,10 +4,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=JoCat&layout=compact&theme=slateorange)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoCat&layout=compact&exclude_repo=JCat-Radio-CMS&theme=slateorange)
-
-
-
 <!--
 **JoCat/JoCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
