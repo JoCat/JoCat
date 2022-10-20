@@ -238,7 +238,7 @@
     alt="stats"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jocat&theme=github"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jocat&theme=github&utcOffset=3"
     alt="stats"
   />
 </p>
