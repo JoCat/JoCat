@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andrew</h1>
+<h1 align="center">Hi 👋, I'm Andrey</h1>
 <h3 align="center">A middle fullstack developer from Russia</h3>
 
 - 🔭 I’m currently working on [Aurora Launcher](https://github.com/AuroraTeam)
