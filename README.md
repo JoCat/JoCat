@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrey</h1>
 <h3 align="center">A middle fullstack developer from Russia</h3>
 
-- 🔭 I’m currently working on [Aurora Launcher](https://github.com/AuroraTeam)
-
-- 🌱 I’m currently learning **all about backend**
-
-- 👨‍💻 All of my projects are available at **github :)**
-
-- 💬 Ask me about **js/node.js/ts and other**
-
-- 📫 How to reach me **discord/telegram**
-
 ### Connect with me:
 
 <p>
