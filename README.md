@@ -21,49 +21,18 @@
 
 ### Currently working with:
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,github,nginx,md,html,css,js,ts,nodejs,electron,mysql,mongodb,redis,nestjs,nextjs,nuxtjs,vue,react,vite,sass,tailwind,materialui,cloudflare,figma,postman,idea,vscode)](https://skillicons.dev)
-
-### Previously worked with:
-
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,bootstrap,jquery,express,sequelize,gulp,webpack,gamemakerstudio,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,github,nginx,html,css,js,ts,nodejs,electron,mysql,mongodb,redis,nestjs,nextjs,nuxtjs,react,vite,tailwind,cloudflare,figma,vscode)](https://skillicons.dev)
 
 <p>and many other things...</p>
 
-### I study it in my spare time:
-
-[![My Skills](https://skillicons.dev/icons?i=svelte,java,cs,dart,go,docker,kubernetes,sentry,unity,deno,tauri,rust)](https://skillicons.dev)
-
 <h2><p align="center">Stats</p></h2>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=jocat&column=-1&margin-w=10"
-      alt="jocat"
-  /></a>
-</p>
-<p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jocat&theme=github"
-    alt="stats"
-  />
-</p>
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jocat&theme=github"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jocat&theme=github&exclude=PHP"
     alt="stats"
   />
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jocat&theme=github"
-    alt="stats"
-  />
-</p>
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jocat&theme=github"
-    alt="stats"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jocat&theme=github&utcOffset=3"
     alt="stats"
   />
 </p>
@@ -75,13 +44,13 @@
 </p>
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=JoCat&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=JoCat&layout=compact&langs_count=20&custom_title=WakaTime%20Stats%20(Top%2020)"
     alt="stats"
   />
 </p>
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=jocat&label=Profile%20views&color=00cc4e&style=flat"
+    src="https://komarev.com/ghpvc/?username=jocat&label=Profile%20views&color=brightgreen"
     alt="jocat"
   />
 </p>
