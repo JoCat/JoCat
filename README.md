@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrey</h1>
 <h3 align="center">A middle fullstack developer from Russia</h3>
 
-### Connect with me:
+### Contact me:
 
 <p>
   <a href="https://discord.com/users/199231799124164608" target="blank"
