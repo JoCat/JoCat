@@ -54,5 +54,3 @@
     alt="jocat"
   />
 </p>
-
-<img src="https://umami.jocat.ru/p/7zIbgWwEu" />
