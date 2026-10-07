@@ -8,7 +8,7 @@
 
 ### Currently working with:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,electron,mysql,mongodb,redis,nestjs,react,solidjs,astro,nextjs,vite,tailwind,linux,nginx,docker,cloudflare,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,electron,mysql,mongodb,redis,nestjs,react,nextjs,vite,tailwind,linux,nginx,docker,cloudflare,vscode)](https://skillicons.dev)
 
 <p>and many other things...</p>
 
