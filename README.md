@@ -1,23 +1,10 @@
-<h1 align="center">Hi 👋, I'm Andrey</h1>
-<h3 align="center">A middle fullstack developer from Russia</h3>
+### Hi! I'm Andrey Molchanov 👋
+#### Middle+/senior fullstack developer
 
-### Contact me:
-
-<p>
-  <a href="https://discord.com/users/199231799124164608" target="blank"
-    ><img
-      src="https://skillicons.dev/icons?i=discord"
-      height="40"
-      width="40"
-  /></a>
-  <a href="https://t.me/JCat98" target="blank"
-    ><img
-      src="https://telegram.org/img/t_logo.svg"
-      alt="Xsb7Yjp"
-      height="40"
-      width="40"
-  /></a>
-</p>
+##### Contact me:
+- Email: [to@jocat.ru](mailto:to@jocat.ru)
+- Telegram: [@JCat98](https://t.me/JCat98)
+- Discord: [jcat](https://discord.com/users/199231799124164608)
 
 ### Currently working with:
 
